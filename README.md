@@ -1,6 +1,6 @@
 # Simple-Hill-Walker-Wrist-Device
 
-![Uploading Screenshot 2022-11-11 at 17.43.51.png…]()
+<img width="709" alt="Screenshot 2022-11-11 at 17 43 51" src="https://user-images.githubusercontent.com/93152488/201398874-40815e75-6952-4f67-af83-ee88f8c513a8.png">
 
 The device only has two buttons: one for ‘mode’, and one for ‘set’. The FSM essentially represents the set of states that the device can be in, with 
 transitions resulting from events and actions produced by one of the two buttons being pressed. Note that when the device is in ‘altimeter’ mode,
