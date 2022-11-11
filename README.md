@@ -1,5 +1,7 @@
 # Simple-Hill-Walker-Wrist-Device
 
+![Uploading Screenshot 2022-11-11 at 17.43.51.png…]()
+
 The device only has two buttons: one for ‘mode’, and one for ‘set’. The FSM essentially represents the set of states that the device can be in, with 
 transitions resulting from events and actions produced by one of the two buttons being pressed. Note that when the device is in ‘altimeter’ mode,
 pressing the ‘set’ button has no effect and the device remains in altimeter mode (this is sometimes referred to as a null transition).
